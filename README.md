@@ -120,6 +120,7 @@ If you found this project useful, please consider giving it a **Star ⭐** on Gi
 Android Developer • Kotlin Enthusiast • Open Source Learner
 
 GitHub: https://github.com/Diptanil-Sen
+
 ---
 
 > *"Learning Android development is best achieved by building projects. This Drawing App is a step toward mastering Custom Views and Canvas APIs."*

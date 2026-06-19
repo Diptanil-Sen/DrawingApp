@@ -4,6 +4,7 @@ A simple and lightweight Android Drawing Application built using **Kotlin** and 
 
 ---
 
+
 ## 📱 Preview
 
 | Home Screen | Drawing | Brush Size Dialog | Thick Brush |

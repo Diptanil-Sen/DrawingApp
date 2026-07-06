@@ -7,6 +7,7 @@ import android.widget.SeekBar
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 
+
 class MainActivity : AppCompatActivity() {rm -rf .git
 
     private lateinit var drawingView: DrawingView

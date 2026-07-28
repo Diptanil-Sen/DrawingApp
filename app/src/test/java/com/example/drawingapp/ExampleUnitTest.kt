@@ -1,4 +1,3 @@
-
 package com.example.drawingapp
 
 import org.junit.Test

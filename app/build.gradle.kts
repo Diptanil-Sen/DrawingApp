@@ -3,6 +3,7 @@ plugins {
     alias(libs.plugins.kotlin.android)
 }
 
+
 android {
     namespace = "com.example.drawingapp"
     compileSdk = 35
